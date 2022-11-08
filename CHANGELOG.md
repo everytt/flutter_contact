@@ -1,3 +1,6 @@
+## [0.9.2+8]
+ * flutter 3.0 migration 
+ 
 ## [0.9.1+7]
  * Dont return avatar
 
