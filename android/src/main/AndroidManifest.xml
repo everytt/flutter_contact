@@ -1,5 +1,6 @@
 <application>
-  <meta-data
+ 
+</application>
+ <meta-data
     android:name="flutterEmbedding"
     android:value="2" />
-</application>
