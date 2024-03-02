@@ -1,7 +1,4 @@
-<application
-  android:name="${applicationName}"
-  >
-  <!-- code omitted -->
+<application>
   <meta-data
     android:name="flutterEmbedding"
     android:value="2" />
