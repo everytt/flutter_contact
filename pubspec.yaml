@@ -10,7 +10,7 @@ dependencies:
   collection: ^1.15.0
   dartxx: ^0.5.3+2
   equatable: ^2.0.3
-  flexidate: ^0.9.0
+  flexidate: ^0.8.0+3
   #intl: ^0.17.0 jinaki 수정
   intl: ^0.18.1
   logging: ^1.0.2
