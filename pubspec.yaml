@@ -12,7 +12,7 @@ dependencies:
   equatable: ^2.0.3
   #flexidate: ^0.8.0+3
   flexidate:
-  git:
+    git:
       url: https://github.com/everytt/flexidate.git
       ref: master
   #intl: ^0.17.0 jinaki 수정
