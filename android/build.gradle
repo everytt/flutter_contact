@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "co.sunnyapp.flutter_contact"
+    namespace "com.everytt.flutter_contact"
     compileSdkVersion 28
 
     sourceSets {
